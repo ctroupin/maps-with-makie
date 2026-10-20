@@ -4,4 +4,7 @@
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/ctroupin/maps-with-makie">  
 
 
-Creating maps ready for publications
+## Statement of need 
+
+Creating maps for publications or presentations is an essential task in our everyday life as researchers.    
+This set of notebooks describe how to generate professional maps using only Julia code.
